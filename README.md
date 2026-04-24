@@ -2,12 +2,12 @@
 
 A simple blockchain and cryptocurrency (bitcoin-style) wallet illustration to guide new engineers going into the blockchain and crypto development implemented in Node.js and TypeScript (To help Introduce Individuals and Interns into the blockchain system).
 
-Watch out for python illustration "blockchain_dev_Python".
+Watch out for python upcoming illustration "blockchain_dev_Python".
 
 # Usage
 
 ```
-git clone <this-repo>
+git clone  https://github.com/Marodrumz/blockchain_dev-bitcoin-style_nodejsts.git
 
 npm install
 npm start
